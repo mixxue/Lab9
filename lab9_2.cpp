@@ -15,7 +15,7 @@ void printO(int N, int M){
 }
 
 
-int printO(){
+int main(){
 	
 	printO(2,2);
 	cout << "\n";
